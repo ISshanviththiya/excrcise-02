@@ -1,0 +1,35 @@
+table, td, th{
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+
+tr.a{
+  background-color:	#0040ff;
+  height: 50px;
+
+}
+tr.b td.b{
+  background-color: #6666ff;
+}
+tr.b td.c{
+  background-color:#33bbff;
+}
+tr.b td.d{
+  background-color:#993399;
+}
+tr.b td.e{
+  background-color:#ffcc00;
+}
+tr.b td.f{
+  background-color:#009900;
+}
+tr.b td.g{
+  background-color:#ff6666;
+}
+tr.b td.h{
+  background-color:#ff0000;}
+
+  tr.b td.i{
+    background-color:#ff8000;
+  }
